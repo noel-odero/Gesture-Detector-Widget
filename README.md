@@ -4,7 +4,8 @@ A Flutter demo showcasing the **GestureDetector** widget through an interactive 
 
 ## Screenshot
 
-![GestureDetector](image.png)
+<img width="395" height="807" alt="image" src="https://github.com/user-attachments/assets/2dc0920d-34e3-49dd-b5ab-387484aa2bae" />
+
 *Interactive box that responds to tap, double-tap, long press, drag, and pinch gestures*
 
 ## Widget Description
@@ -127,3 +128,4 @@ lib/
 **Noel Odero**  
  
 Presentation Date: 2nd October 2025
+
