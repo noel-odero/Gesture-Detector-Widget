@@ -107,13 +107,13 @@ lib/
 
 ## Features Implemented
 
-✅ **Tap** - Random color change  
-✅ **Double Tap** - Toggle zoom (1.0x ↔ 1.6x)  
-✅ **Long Press** - Reset to center  
-✅ **Drag** - Move box around screen  
-✅ **Pinch/Zoom** - Scale between 0.5x and 3.0x  
-✅ **Boundary Checking** - Box stays within screen bounds  
-✅ **Smooth Animations** - 180ms transition effects  
+ **Tap** - Random color change  
+ **Double Tap** - Toggle zoom (1.0x ↔ 1.6x)  
+ **Long Press** - Reset to center  
+ **Drag** - Move box around screen  
+ **Pinch/Zoom** - Scale between 0.5x and 3.0x  
+ **Boundary Checking** - Box stays within screen bounds  
+ **Smooth Animations** - 180ms transition effects  
 
 ## Technologies Used
 
@@ -128,4 +128,5 @@ lib/
 **Noel Odero**  
  
 Presentation Date: 2nd October 2025
+
 
